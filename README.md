@@ -1,8 +1,24 @@
-# React + Vite
+# fast-react-pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fast react pizza its demo project when you can log in, choose and order any pizza what you want. All pizzas is great, I promise you 😀
 
-Currently, two official plugins are available:
+# Demo: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://fast-react-pizza-app-by-skala10.netlify.app/
+
+## Features
+
+- Feature 1: Enter your name
+- Feature 2: Choose sort of pizzas and quantity. Then open cart
+- Feature 3: In cart you can order pizzas, clear cart or  delete and change  pizzas quantity
+- Feature 4: Then you fill order form. You can use geolocation button and fill adress field. 
+- Feature 5: You can use geolocation button and fill adress field. 
+- Feature 6: Сheck the box if you want priority order. After you check price changing 
+- Feature 7: You can find you order by order # 
+  
+## Technologies
+
+List of technologies used in the project:
+
+- React JS (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
+- CSS
